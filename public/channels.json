@@ -1,0 +1,253 @@
+{
+  "channels": [
+    {
+      "name": "beIN Sports News HD (الإخبارية الرياضية)",
+      "logo": "🟣",
+      "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
+      "backupUrl": "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8",
+      "cat": "قنوات beIN Sports",
+      "isVip": false,
+      "quality": "1080p FHD",
+      "event": "نشرات إخبارية وتحليلات رياضية مباشرة 24/7"
+    },
+    {
+      "name": "beIN Sports XTRA 1 HD (مباشر مفتوح)",
+      "logo": "⚽",
+      "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
+      "backupUrl": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
+      "cat": "قنوات beIN Sports",
+      "isVip": false,
+      "quality": "1080p 50FPS",
+      "event": "مباريات الدوريات الأوروبية والمحلية"
+    },
+    {
+      "name": "beIN Sports 1 Premium 4K (الدوري الإنجليزي والأبطال)",
+      "logo": "🏆",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8",
+      "backupUrl": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
+      "cat": "قنوات beIN Sports",
+      "isVip": true,
+      "quality": "4K UHD 60FPS",
+      "event": "الدوري الإنجليزي الممتاز & دوري أبطال أوروبا"
+    },
+    {
+      "name": "beIN Sports 2 HD (الدوري الإسباني La Liga)",
+      "logo": "⚽",
+      "url": "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8",
+      "backupUrl": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
+      "cat": "قنوات beIN Sports",
+      "isVip": true,
+      "quality": "1080p 50FPS",
+      "event": "الدوري الإسباني وكأس ملك إسبانيا"
+    },
+    {
+      "name": "beIN Sports 3 HD (الدوري الفرنسي والأفريقي)",
+      "logo": "⚽",
+      "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
+      "backupUrl": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
+      "cat": "قنوات beIN Sports",
+      "isVip": true,
+      "quality": "1080p 50FPS",
+      "event": "الدوري الفرنسي & دوري أبطال إفريقيا"
+    },
+    {
+      "name": "beIN Sports 4 HD (الدوري الألماني والبطولات)",
+      "logo": "⚽",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8",
+      "backupUrl": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
+      "cat": "قنوات beIN Sports",
+      "isVip": true,
+      "quality": "1080p 50FPS",
+      "event": "الدوري الألماني البوندسليغا"
+    },
+    {
+      "name": "beIN Sports AFC HD (دوري أبطال آسيا للنخبة)",
+      "logo": "🌏",
+      "url": "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8",
+      "backupUrl": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
+      "cat": "قنوات beIN Sports",
+      "isVip": true,
+      "quality": "1080p 50FPS",
+      "event": "دوري أبطال آسيا وكأس الاتحاد الآسيوي"
+    },
+    {
+      "name": "beIN Sports MAX 1 4K (كأس العالم 2026)",
+      "logo": "🏆",
+      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "backupUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8",
+      "cat": "قنوات beIN Sports",
+      "isVip": true,
+      "quality": "4K HDR Ultra",
+      "event": "تصفيات وبطولة كأس العالم 2026"
+    },
+    {
+      "name": "beIN Sports MAX 2 4K (بطولات الكؤوس الدولية)",
+      "logo": "🏆",
+      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "backupUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8",
+      "cat": "قنوات beIN Sports",
+      "isVip": true,
+      "quality": "4K HDR Ultra",
+      "event": "كأس العالم للأندية وبطولات الفيفا"
+    },
+    {
+      "name": "MBC 1 HD (العامة والمسلسلات)",
+      "logo": "🟣",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8",
+      "backupUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8",
+      "cat": "قنوات MBC"
+    },
+    {
+      "name": "MBC Masr 1 HD (إم بي سي مصر الأولى)",
+      "logo": "🇪🇬",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8",
+      "backupUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8",
+      "cat": "قنوات MBC"
+    },
+    {
+      "name": "MBC Masr 2 HD (مصر 2 والرياضة)",
+      "logo": "🇪🇬",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8",
+      "backupUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8",
+      "cat": "قنوات MBC"
+    },
+    {
+      "name": "MBC Drama HD (المسلسلات والدراما)",
+      "logo": "🎭",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8",
+      "backupUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8",
+      "cat": "قنوات MBC"
+    },
+    {
+      "name": "MBC Masr Drama HD (دراما مصر)",
+      "logo": "🎭",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8",
+      "backupUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8",
+      "cat": "قنوات MBC"
+    },
+    {
+      "name": "MBC 4 HD (البرامج والمنوعات)",
+      "logo": "📺",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8",
+      "backupUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8",
+      "cat": "قنوات MBC"
+    },
+    {
+      "name": "MBC 5 HD (إم بي سي 5 المغرب)",
+      "logo": "🇲🇦",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8",
+      "backupUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8",
+      "cat": "قنوات MBC"
+    },
+    {
+      "name": "MBC Bollywood HD (هندي مدبلج ومترجم)",
+      "logo": "💃",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8",
+      "backupUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8",
+      "cat": "قنوات MBC"
+    },
+    {
+      "name": "MBC Persia HD (أفلام أجنبية وسينما)",
+      "logo": "🎬",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8",
+      "backupUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8",
+      "cat": "قنوات MBC"
+    },
+    {
+      "name": "MBC Iraq HD (إم بي سي العراق)",
+      "logo": "🇮🇶",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8",
+      "cat": "قنوات MBC"
+    },
+    {
+      "name": "MBC 3 HD (أطفال وكرتون)",
+      "logo": "🧒",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8",
+      "cat": "قنوات MBC"
+    },
+    {
+      "name": "العربية الحدث HD (أخبار MBC)",
+      "logo": "⚫",
+      "url": "https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
+      "cat": "قنوات MBC"
+    },
+    {
+      "name": "العربية الإخبارية HD",
+      "logo": "🔴",
+      "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
+      "cat": "قنوات MBC"
+    },
+    {
+      "name": "العربية أسواق 💹",
+      "logo": "💹",
+      "url": "https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8",
+      "cat": "قنوات MBC"
+    },
+    {
+      "name": "العراقية سبورت HD",
+      "logo": "⚽",
+      "url": "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8",
+      "cat": "رياضية"
+    },
+    {
+      "name": "Oman Sport TV عمان الرياضية",
+      "logo": "⚽",
+      "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
+      "cat": "رياضية"
+    },
+    {
+      "name": "سكاي نيوز عربية HD",
+      "logo": "🔴",
+      "url": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+      "cat": "إخبارية"
+    },
+    {
+      "name": "الجزيرة الإخبارية HD",
+      "logo": "🟡",
+      "url": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8",
+      "cat": "إخبارية"
+    },
+    {
+      "name": "الجزيرة مباشر",
+      "logo": "🔴",
+      "url": "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8",
+      "cat": "إخبارية"
+    },
+    {
+      "name": "France 24 عربي",
+      "logo": "🔵",
+      "url": "https://static.france24.com/live/F24_AR_HI_HLS/live_web.m3u8",
+      "cat": "إخبارية"
+    },
+    {
+      "name": "DW عربي HD",
+      "logo": "🔷",
+      "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
+      "cat": "إخبارية"
+    },
+    {
+      "name": "Watan TV وطن مصرية",
+      "logo": "🇪🇬",
+      "url": "https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8",
+      "cat": "مصرية"
+    },
+    {
+      "name": "Mekameleen مكملين",
+      "logo": "📺",
+      "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8",
+      "cat": "مصرية"
+    },
+    {
+      "name": "Asharq Discovery وثائقية",
+      "logo": "🦁",
+      "url": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8",
+      "cat": "وثائقية"
+    },
+    {
+      "name": "Big Buck Bunny 4K Cinema Demo",
+      "logo": "🐰",
+      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "cat": "أفلام"
+    }
+  ]
+}
